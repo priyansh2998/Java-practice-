@@ -1,0 +1,4 @@
+# Java-practice-
+beginner in java but have prior knowledge of C only
+I will solve 5 problems daily and will update my git and twitter daily😤
+I would like to get started with DSA in JAVA , for now I m following Kunal Kushwaha (https://www.youtube.com/c/KunalKushwaha)
