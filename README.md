@@ -5,4 +5,4 @@ I will solve 5 problems daily
 
 will update my git and twitter daily😤
 
-I would like to get started with DSA in JAVA , for now I m following Kunal Kushwaha (https://www.youtube.com/c/KunalKushwaha)
+I would like to get started with DSA in JAVA , for now I m following Kunal Kushwaha's playlist (https://www.youtube.com/c/KunalKushwaha)
