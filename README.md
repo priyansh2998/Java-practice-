@@ -1,7 +1,7 @@
 # Java-practice-
 beginner in java but have prior knowledge of C only. 
 
-I will solve 5 problems daily 
+I will try to solve 5 problems daily 
 
 will update my git and twitter daily😤
 
