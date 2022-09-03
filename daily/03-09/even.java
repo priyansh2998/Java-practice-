@@ -6,8 +6,8 @@ public class even {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("enter array of 5 index");
-        int[] arr=new int[5];
-        for(int i=0;i<5;i++){
+        int[] arr=new int[5]; 
+        for(int i=0;i<5;i++){    //taking input
             arr[i]=in.nextInt();
         }
         System.out.println("even number of digits are "+ even(arr));
