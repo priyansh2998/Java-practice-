@@ -1,7 +1,5 @@
 package dsa;
 
-import java.util.Scanner;
-
 public class alphabets_ceiling {
     public static void main(String[] args) {
         char[] letter={'c','f','j'};
@@ -10,10 +8,10 @@ public class alphabets_ceiling {
     }
     static char ceilng(char[] letter,char target){
         int start=0;int end=letter.length-1;
-        if(target<letter[start]){
+        if(target<=letter[start]){
             return 'j';
         }
-        else if(target>letter[end]){
+        else if(target>=letter[end]){
             return 'c';
         }
         while(start>=end){
@@ -22,8 +20,6 @@ public class alphabets_ceiling {
                 end=mid-1;
             }else if(target > letter[mid]){
                 start=mid+1;
-            }else if(target==letter[mid]){
-                return letter[mid];
             }
         }return letter[start];
     }
