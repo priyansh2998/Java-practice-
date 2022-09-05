@@ -9,6 +9,9 @@ public class ceiling {
         System.out.println("the ceiling integer is "+ ceiling_num2(arr,target));
     }
     static int ceiling_num2(int[] arr, int a){
+        if(a>arr.length-1) {
+            return -1;                //if target is our of range
+        }
         int start=0;int end=arr.length-1;
         while(start<=end){
             int mid=(start+end)/2;
