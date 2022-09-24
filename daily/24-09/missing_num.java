@@ -22,7 +22,7 @@ public class missing_num {
                 arr[arr[i]]=arr[i];
                 arr[i]=temp;
             }
-            if(arr[i]==a || arr[i]==i){
+            else{
                 i++;
             }
         }
